@@ -1,6 +1,6 @@
-# Responive Meteor Package of purecss
+# Responsive purecss Meteor Package
 
-This Meteor package adds purecss with responsive modules.
+This Meteor package adds purecss with responsive grid modules.
 
 ## Documentation:
 A set of small, responsive CSS modules that you can use in every web project. 
